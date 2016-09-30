@@ -1,5 +1,7 @@
 # Jquery::Tablesorter::Rails::Utils
 
+[![Gem Version](https://badge.fury.io/rb/jquery-tablesorter-rails-utils.svg)](https://badge.fury.io/rb/jquery-tablesorter-rails-utils)
+
 Helpful (hopefully! ;-) ) additions for jQuery tablesorter (only support for [Mottie's fork] targeted) when working with rails.
 
 While still in early development - which might bring breaking changes with new releases - it is meant to provide helpful utilities for jquery-tablesorter in rails. At the current state of development it only supports a mechanism to help to work with Ajax based tables.

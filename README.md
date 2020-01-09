@@ -28,7 +28,9 @@ Or install it yourself as:
 
     $ gem install jquery-tablesorter-rails-utils
 
-## Usage
+## Usage (Attention: OUTDATED!)
+
+!!! The following information might not fully apply to version 0.2.0 !!!
 
 ### Module: Ajax
 
